@@ -55,6 +55,6 @@ function moveButton() {
 }
 
 //events listeners for the function to be called and it begin to work
-submitButton.addEventListener('onclick', checkCredentials);
+submitButton.addEventListener('click', checkCredentials);
 submitButton.addEventListener('onhover', moveButton());
 
