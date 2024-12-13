@@ -86,7 +86,7 @@ font-weight: 900;
     font-weight: 500;
     }
    
- @media  screen and (max-width: 1000px ){
+ @media  screen and (max-width: 600px ){
 
     #signh1{
         font-size: 40px;
