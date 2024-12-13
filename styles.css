@@ -7,11 +7,9 @@
 .logmain{
     flex-direction: column;
     width: 102vw;
-    
     display: flex;
     align-items: center;
-	justify-content: center;
-    
+    justify-content: center;
 }
  #loginform{
     width: 100%;
@@ -83,7 +81,7 @@ font-weight: 900;
     font-size: 40px;
     font-weight: 500;
     }
-   
+/*    
  @media  screen and (max-width: 600px ){
 
     #signh1{
@@ -108,15 +106,19 @@ font-weight: 900;
 
     #email{
         width: 100%;
-        padding-left: 0;
+        padding-left: 10;
         height: 10vh;
         font-size: 15px;
         font-weight: 500;
         flex-wrap: fixed;
     }
     #passwordInput{
-        width: 100%
-      
+         width: 100%;
+        padding-left: 10;
+        height: 10vh;
+        font-size: 15px;
+        font-weight: 500;
+        flex-wrap: fixed;
     }
     #submitButton{
         width: 20%;
@@ -129,3 +131,4 @@ font-weight: 900;
   } 
       
       
+ */
