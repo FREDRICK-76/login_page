@@ -7,14 +7,11 @@
 .logmain{
     flex-direction: column;
     width: 102vw;
-    height: 100vh:
+    
     display: flex;
     align-items: center;
 	justify-content: center;
-    border: none;
-    border-radius: 0.5px;
-    margin: 0 auto;
-    background-color: aqua;
+    
 }
  #loginform{
     width: 100%;
@@ -119,11 +116,7 @@ font-weight: 900;
     }
     #passwordInput{
         width: 100%
-        padding-left: 0;
-        height: 10vh;
-        font-size: 15px;
-        font-weight: 500;
-        flex-wrap: fixed;
+      
     }
     #submitButton{
         width: 20%;
